@@ -1,0 +1,43 @@
+.comment {
+    width: 50%;
+    margin-top: 5px;
+    padding: 10px;
+    border-radius: 15px;
+    display: flex;
+}
+
+.comment-field{
+display: flex;
+margin-top: 5px;
+background-color: rgb(234, 234, 234);
+border-radius: 15px;
+width: 100%;
+padding: 5px;
+margin-left: 5px;
+height: 60px;
+}
+
+.comment-avatar{
+    margin-left: 5px;
+    border: 1px solid rgb(233, 233, 233);
+}
+
+.comment-info > h3{
+    font-size: medium;
+    margin-left: 5px;
+}
+
+
+.comment-info > p {
+    font-size: small;
+    color: rgb(57, 57, 57);
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
